@@ -1,0 +1,49 @@
+#heading
+{
+    font-size: 33px;
+}
+#head
+{
+    width: 100%;
+    line-height: 1;
+}
+#note
+{
+    font-size: 15px;
+    color: black;
+}
+#object_name_input
+{
+    width: 300px;
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+#object_name_div
+{
+    margin-top: 30px;
+    color: white;
+}
+#status
+{
+    margin-right: 10px;
+    font-size: 23px;
+}
+#object_status
+{
+    font-size: 23px;
+}
+canvas
+{
+    border-color: yellow;
+    box-shadow: 10px 10px 7px 5px rgb(53, 53, 53);
+    padding: 0%;
+    margin-bottom: 120px;
+    margin-top: -168px;
+    border-radius: 15px;
+}
+body
+{
+    background-size: cover;
+}
